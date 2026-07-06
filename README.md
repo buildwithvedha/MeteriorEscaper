@@ -6,6 +6,13 @@ A fast-paced mobile game where you pilot a spaceship through an asteroid field. 
 
 Navigate your spaceship left and right to avoid falling asteroids. Each asteroid you dodge increases your score. Survive with 3 lives, but hit an asteroid and lose one! The game gets progressively challenging as your score increases.
 
+
+<img width="702" height="1507" alt="SpaceEscape Runner Image" src="https://github.com/user-attachments/assets/24ad843f-4f41-4a10-8693-25b72591a325" />
+
+
+[🎥 Watch the Gameplay Video Here](https://drive.google.com/file/d/1wXKLrwXududDzI97iYZPgNRKTXvjkRZT/view?usp=sharing)
+
+
 ### Features
 - **Responsive Controls** - Swipe left/right or tap buttons to move
 - **Score Tracking** - Real-time score counter
