@@ -1,4 +1,4 @@
-# SpaceDodge Game🚀
+# MeteriorEscaper Game🚀
 
 A fast-paced mobile game where you pilot a spaceship through an asteroid field. Dodge incoming asteroids, survive as long as you can, and beat your high score!
 
